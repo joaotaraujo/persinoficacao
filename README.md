@@ -20,8 +20,6 @@ SBCM 2019
 
 ![GitHub Logo](/images/TM2_5718(1).jpg)
 
-![GitHub Logo](/images/TM2_6107.jpg)
-
 
 System
 ----------------
