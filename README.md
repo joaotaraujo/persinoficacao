@@ -9,10 +9,15 @@ In this way, the social function of these ringing, added to real or legendary fa
 The link of this community with the bells, therefore transcends the man-object relationship, tending to an interpersonal relationship practically.
 
 Thus, to emphasize this connection in an artistic way, it is proposed the installation called: PER(SINO)FICAÇÂO.
-This consists of an environment where users would have their physical attributes collected through the use of computer vision.
-From the interlocking of these data with timbral attributes of the bells, visitors would be able to sound like these, through mapped bodily attributes capable of performing syntheses based on original samples of the bells.
-Thus the inverse sense of the personification of the bell is realized, producing the human "bellification".
 
+In this installation, the public is invited to enter a booth in order to represent a bell in the city.
+In the cabin, some projections of different towers and bells from the city's churches are projected.
+Until then, a calm soundscape of the city is the only sound reproduced.
+Upon entering the booth, the height and width of the participant are captured, which when pressing a button, triggers the sound synthesis of a certain bell with different patterns and rhythms, completing the soundscape.
+
+The nature of the composition varies according to the characteristics of the visitor.
+These characteristics are captured through a webcam that uses Computer Vision algorithms, which then maps the information collected to create a new bell, based on the sound synthesis.
+It is worth mentioning that the participant, according to the gesture performed, can drastically change the generated timbre.
 
 
 SBCM 2019
@@ -25,11 +30,13 @@ System
 ----------------
 
 
-System fluxogram
+
+
+<b>System fluxogram</b>
 
 ![GitHub Logo](/images/systemFluxogram(1).jpg)
 
 
-One of the Pure Data's patch
+<b>One of the Pure Data's patch</b>
 
 ![GitHub Logo](/images/sinosPD(1).png)
