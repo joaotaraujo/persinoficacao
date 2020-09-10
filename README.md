@@ -1,4 +1,4 @@
-# Per(sino)ficacao
+# Per(sino)ficacao - Python/opencv, OSC and Pure Data application
 
 
 About
