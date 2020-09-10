@@ -26,8 +26,10 @@ System
 
 
 System fluxogram
+
 ![GitHub Logo](/images/systemFluxogram(1).jpg)
 
 
 One of the Pure Data's patch
+
 ![GitHub Logo](/images/sinosPD(1).png)
