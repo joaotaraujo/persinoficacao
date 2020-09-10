@@ -1,0 +1,16 @@
+#N canvas 0 59 1920 973 10;
+#X obj 117 65 OSC/unpackOSC;
+#X obj 117 36 iemnet/udpreceive 9001;
+#X obj 118 93 OSC/routeOSC /adress;
+#X obj 118 135 print;
+#X floatatom 168 193 5 0 0 0 - - -, f 5;
+#X floatatom 226 194 5 0 0 0 - - -, f 5;
+#X obj 169 135 list split 2;
+#X obj 169 163 unpack f f;
+#X connect 0 0 2 0;
+#X connect 1 0 0 0;
+#X connect 2 0 3 0;
+#X connect 2 0 6 0;
+#X connect 6 0 7 0;
+#X connect 7 0 4 0;
+#X connect 7 1 5 0;
